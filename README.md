@@ -1,2 +1,2 @@
 # Bifrost
-Connecting LLMs
+Interface for Connecting LLMs
